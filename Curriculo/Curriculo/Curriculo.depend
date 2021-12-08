@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638991677 source:c:\users\boyen\onedrive\documentos\trabalhos_prog\curriculo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
